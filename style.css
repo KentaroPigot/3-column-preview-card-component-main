@@ -44,6 +44,7 @@ body {
     text-rendering: optimizeSpeed;
     line-height: 1.5;
     font-size: 15px;
+    background-color: var(--Very-light-gray-background-headings-buttons);
 }
 
 .container {
